@@ -30,7 +30,7 @@ The data set contains the following diseases:
 ## Conclusions
 
 - The accuracy of test set is around 94%
-- Accuracy of validation dats set is around 85%
+- Accuracy of validation dats set is around 91%
 - We may run extra epochs to see if the model performs better. But, in such case there could be a problem of overfitting as well.
 - The model with the above accuracy shows an increased performace of the model when we train with dataset where number of images in each class is balanced.
 - We can see that the model performed better on augmented data.
@@ -56,7 +56,7 @@ The data set contains the following diseases:
 - PI session and Live presention about the brief of the project [Manish]
 
 ## Created By 
-- [Manoj Bisht](https://www.linkedin.com/in/manoj-bisht-b293a657/)
+- [Vibhot Malik]
 
 
 <!-- Optional -->
